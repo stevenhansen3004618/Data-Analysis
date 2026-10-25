@@ -114,7 +114,6 @@ I am a Mathematics and Data Science student with professional experience in fina
 - Machine Learning
 - Operations Research
 - Mathematical Modeling
-- Software Development
 - Defense and National Security Applications
 
 ---
