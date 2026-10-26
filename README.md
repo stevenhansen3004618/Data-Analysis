@@ -85,10 +85,10 @@ Created dashboards and reports to provide stakeholders with actionable insights 
 
 | Category | Technologies |
 |----------|-------------|
-| Languages | Python, SQL, R, MATLAB |
+| Languages | Python, SQL |
 | Libraries | Pandas, NumPy, SciPy, Scikit-Learn |
 | Visualization | Matplotlib, Seaborn, Plotly |
-| Databases | MySQL, PostgreSQL, SQL Server |
+| Databases | MySQL , SQL Server |
 | BI Tools | Tableau, Power BI |
 | Version Control | Git, GitHub |
 
